@@ -193,14 +193,14 @@
 		
 		#top h2
 		{
-			font-size:1em;
-			line hight:1.75em;
+			font-size: 1.5em;
+			line-height: 1.75em;
 		}
 	
 		#top p
 		{
-			font-size: 1.5em;
-			line-height: 1.75em;
+			font-size:1em;
+			line hight:1.75em;
 		}
 		
 	#contact
