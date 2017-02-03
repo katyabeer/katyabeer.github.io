@@ -115,6 +115,10 @@ textarea {
     border: none;
 }
 
+.nav a span {
+    padding-bottom: 0.25rem;
+}
+
 .nav a.active span {
     border-bottom-width: 3px;
     border-bottom-color: red;
